@@ -68,7 +68,8 @@ Keterangan:
 
 ## Known Issues 
 
-Belum ditemukan masalah utama pada fitur yang telah diuji. Program masih perlu diuji pada kondisi lain, seperti ketika file data tidak ditemukan atau ketika seluruh data tidak valid.
+- Program belum menyediakan fitur untuk menampilkan grafik analisis nilai siswa.
+- Laporan analisis masih disajikan dalam bentuk teks.
 
 ## Anggota dan Kontribusi
 
