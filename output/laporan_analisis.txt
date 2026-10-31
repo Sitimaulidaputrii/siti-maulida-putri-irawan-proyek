@@ -1,0 +1,17 @@
+LAPORAN REKAP DAN ANALISIS NILAI SISWA
+KKM: 75
+Jumlah siswa valid: 5
+Rata-rata nilai: 73.00
+Nilai tertinggi: 90.0
+Nilai terendah: 55.0
+Mencapai KKM: 3 siswa
+Belum mencapai KKM: 2 siswa
+
+DAFTAR NILAI SISWA
+Andi: 80 (Mencapai KKM)
+Budi: 65 (Belum mencapai KKM)
+Citra: 90 (Mencapai KKM)
+Dinda: 55 (Belum mencapai KKM)
+Eko: 75 (Mencapai KKM)
+
+Jumlah baris ditolak: 0
