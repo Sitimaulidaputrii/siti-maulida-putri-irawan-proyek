@@ -73,7 +73,7 @@ Keterangan:
 
 ## Anggota dan Kontribusi
 
-Nama anggota: 
+Nama anggota: Siti Maulida Putri Irawan
 Kontribusi: merancang program, menulis kode, menguji fitur, dan menyusun dokumentasi
 
 ## Referensi/Bantuan
