@@ -8,4 +8,4 @@
 | T4 | Nilai di luar rentang | Citra,110 | Data ditolak | Data ditolak karena nilai diluar rentang | PASS |
 | T5 | Input bukan angka | Budi,abc | Data ditolak | Data ditolak karena nilai bukan angka | PASS |
 | T6 | Nama kosong | ,80 | Data ditolak | Data ditolak karena nama kosong | PASS |
-| T7 | Format data salah | Andi | Data ditolak | Belum diuji | Belum diuji |
+| T7 | Format data salah | Andi | Data ditolak | Data ditolak karena format harus Nama,Nilai | PASS |
